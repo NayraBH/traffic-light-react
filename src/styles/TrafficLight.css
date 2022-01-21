@@ -1,0 +1,67 @@
+
+
+.traffic-light {
+    width: 140px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.glow-red {
+    box-shadow: 0px 0px 30px 20px red;
+}
+
+.glow-yellow {
+    box-shadow: 0px 0px 30px 20px yellow;
+}
+
+.glow-green {
+    box-shadow: 0px 0px 30px 20px green;
+}
+
+.glow-purple {
+    box-shadow: 0px 0px 30px 20px purple;
+}
+
+.hide {
+    display: none;
+}
+
+.btn {
+    width: 120px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+
+.post {
+    width: 30px;
+    height: 120px;
+    background-color: black;
+    margin: auto;
+}
