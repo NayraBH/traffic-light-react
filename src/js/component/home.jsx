@@ -1,11 +1,11 @@
 import React from "react";
 
-import TrafficLight from "./Trafficlight.jsx";
+import TrafficLight from "./TrafficLight.jsx";
 
 const Home = () => {
 	return (
 		<div>
-			<Trafficlight />
+			<TrafficLight />
 		</div>
 	);
 };
